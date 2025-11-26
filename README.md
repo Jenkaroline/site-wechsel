@@ -1,4 +1,4 @@
-# Site Wechsel
+# Wechsel Website
 
 Um site estático simples feito com HTML, CSS e JavaScript — com páginas de manutenção, contato e outras seções. Ideal para demonstrar layout e estrutura básica de front-end.
 
