@@ -40,4 +40,4 @@ Base para evolução futura (ex: adicionar CSS responsivo, interatividade, formu
 📄 Licença
 Esse projeto está aberto — sinta-se livre para usar e adaptar conforme precisar.
 
-Feito com ❤️ por Jennifer Karoline.
+Feito por alunos do Centro Universitário Católico Ítalo-Brasileiro, para fins educacionais.
